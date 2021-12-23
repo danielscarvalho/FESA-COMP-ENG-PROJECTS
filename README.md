@@ -26,3 +26,4 @@ Programming Languages a Computer Engineer should master at college:
 3. Bash
 4. SQL
 5. Python
+6. JavaScript (+ HTML and CSS)
