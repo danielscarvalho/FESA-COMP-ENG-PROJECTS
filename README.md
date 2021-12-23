@@ -18,3 +18,11 @@ Projects Computer Engineering students should do while in college:
 14. Create a simple robot with elementary electroncs
 15. Create a complex robot with AI and computer vision
 16. Create analog electronic projects
+
+Programming Languages a Computer Engineer should master at college:
+
+1. C/C++
+2. Java
+3. Bash
+4. SQL
+5. Python
