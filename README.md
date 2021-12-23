@@ -18,7 +18,7 @@ Projects Computer Engineering students should do while in college:
 14. Create a 2D Game
 15. Create a 3D Game
 16. Create a simple robot with elementary electroncs
-17. Create a complex robot with AI and computer vision
+17. Create a advanced robot with AI and computer vision
 18. Create analog electronic projects
 19. Hack an appliance or sound system with a digital technology integration
 
