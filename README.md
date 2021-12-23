@@ -2,7 +2,7 @@
 
 Projects Computer Engineering students should do while in college:
 
-1. Build its own Arduino
+1. Build their own Arduino
 2. Create an ESP32 (or related) project
 3. Create a Raspberry Pi project
 4. Reporpose an old smartphone (create app, user sensore, etc...)
