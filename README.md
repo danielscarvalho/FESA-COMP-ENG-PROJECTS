@@ -10,7 +10,7 @@ Projects Computer Engineering students should do while in college:
 6. Create a híbrid mobile app (JavaScript, CSS and HTML - Ionic, React, Cordova or others), and have it published in a store (Google Play or Apple Store)
 7. Create a web application at MVC design pattern with a relational database such as MySQL, publish at the cloud
 8. Create a web application at MVC design pattern with a NoSQL database such as MongoDB or CouchDB, publish at the cloud
-9. Create a desktop app
+9. Create a desktop app (JavaFX - Java, Qt - C or Electron - JavaScript)
 10. Create Data Science reporst and graphics with Python and Jupyter Notebook, publish at GitHub
 11. Hack 3D models and print it
 12. Create an IoT project, hadware and software
