@@ -18,7 +18,7 @@ Projects Computer Engineering students should do while in college:
 14. Create a simple robot with elementary electroncs
 15. Create a complex robot with AI and computer vision
 16. Create analog electronic projects
-17. Hack an appliance or sound system with digital technology integration
+17. Hack an appliance or sound system with a digital technology integration
 
 Programming Languages a Computer Engineer should master at college:
 
